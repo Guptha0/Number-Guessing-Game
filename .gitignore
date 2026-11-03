@@ -1,0 +1,26 @@
+# Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# Compiled native binaries
+guessing_cpp
+guessing_c
+guessing_asm
+arcade_game
+imgui_game
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.bin
+
+# macOS / Windows OS files
+.DS_Store
+Thumbs.db
